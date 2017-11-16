@@ -8,3 +8,9 @@ body {
   /* This centers our sketch vertically. */
   align-items: center;
 }
+
+canvas {
+   border-width: 3px;
+   border-color: gray;
+   border-style: solid;
+}
