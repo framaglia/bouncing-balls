@@ -3,7 +3,7 @@ var controller;
 var frame;
 
 function setup() {
-	createCanvas(windowWidth * 0.7, windowHeight * 0.7);
+	createCanvas(windowWidth * 0.6, windowHeight * 0.6);
 	forceRHand = createVector(0, -150);
 	forceLHand = createVector(0, -150);
 	forceRKey = createVector(100, 0);
